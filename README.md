@@ -18,6 +18,10 @@ Key insights stood out:
 
 For product managers, designers, and business leaders, insights like these replace assumptions with facts. This project shows how I turn user behavior into practical ideas for better design and stronger business results.
 
+**_Disclaimer_**:
+>**_Images of Microsoft Clarity shown in this repository are purely for educational and portfolio purposes. Data displayed is sourced from publicly available demo data. All rights to the Clarity interface and branding belong to Microsoft._**
+
+
 
 
 
