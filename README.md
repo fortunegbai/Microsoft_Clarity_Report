@@ -20,8 +20,10 @@ For product managers, designers, and business leaders, insights like these repla
 
 
 
+
+
 ## Resources
 
-- [Download full Google Slides report here](./docs/Microsoft_Clarity_UX_Analysis_Report.pdf)
-- [Browse all raw onboarding screenshots here](./images/)
+- [View the full slide deck on Google Slides](./docs/Microsoft_Clarity_UX_Analysis_Report.pdf)
+- [Browse all the raw analysis screenshots](./images/)
 
