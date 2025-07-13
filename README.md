@@ -158,7 +158,7 @@ Across two mobile sessions, users displayed overlapping frustration behaviors:
 - **Hover traps:** Users hovered over text styled like links that weren’t clickable.
 - No sessions observed users reaching the page footer.
 
-|![](./images/Clicks_1.png) | ![](./images/Clicks_2.png) | ![](./images/Clicks_3.png)| 
+|![](./images/Clicks_1.png)|![](./images/Clicks_2.png)|![](./images/Clicks_3.png)| 
 
 *Figure 7: Text selection, rage and dead clicks timestamps during  session replay*
 
